@@ -1,0 +1,247 @@
+{
+  "settings": {
+    "name": "Site-12-16_1814",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "4.5.2",
+    "uniqCompNum": 6,
+    "versionPublish": "4.5.2"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "vince2008",
+          "text": "A weboldal ami hasznos.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://www.youtube.com/channel/UCvTWERN1IxDwJzeGP3MRceA?\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Feliratkozás<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#slider2-3\" data-toolbar=\"-mbrBtnMove\">Letöltések</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1",
+          "_styles": {
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "P": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.youtube.com/channel/UCvTWERN1IxDwJzeGP3MRceA?\">YOUTUBE CSATORNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LETÖLTÉSEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider2-3\">Egy \"kicsit\" veszélyes fájlok</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">KEZDŐLAP</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-350x256.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "",
+              "link": "https://www.youtube.com/channel/UCvTWERN1IxDwJzeGP3MRceA?",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">vince2008</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-2"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "images/slide1.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Egy \"kicsit\" veszélyes fájlok",
+                "contentAlign": "right",
+                "text": "FIGYELEM:<br>Ezek a fájlok veszélyt jelenthetnek a gépedre!Csak virtuális gépen tesztekld őket!!!",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "image": "images/slide2.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "WannaCry",
+                "contentAlign": "left",
+                "text": "Ez a fájl futtatás után titkosítja a fájlokat, majd pénzt kér azok feloldásáért",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://ufile.io/xrogw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Letöltés</a> "
+              },
+              {
+                "image": "images/slide3.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "BadRabbit",
+                "contentAlign": "center",
+                "text": "A Petya(NotPetya)-ához hsonló",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://ufile.io/sji0l\" data-toolbar=\"-mbrBtnMove\">LETÖLTÉS</a> "
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-3",
+          "_styles": {
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "P": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "images/slide1.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "000.exe",
+                "contentAlign": "right",
+                "text": "Egy ijesztő(creepypasta) vírus.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LETÖLTÉS</a> "
+              },
+              {
+                "image": "images/slide2.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "DDS",
+                "contentAlign": "left",
+                "text": "??????",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LETÖLTÉS</a>  "
+              },
+              {
+                "image": "images/slide3.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "",
+                "contentAlign": "center",
+                "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jigsaw",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://ufile.io/flp4n\" data-toolbar=\"-mbrBtnMove\">LETÖLTÉS</a> "
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "P": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

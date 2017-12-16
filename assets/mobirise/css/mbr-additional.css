@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
+
+
+
+
+
+
+#header4-1 H1 {
+  font-family: 'Indie Flower', cursive;
+}
+#header4-1 P {
+  font-family: 'Indie Flower', cursive;
+}
+#header4-1 .btn {
+  font-family: 'Indie Flower', cursive;
+}
+#dropdown-menu-2 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2 .nav .link,
+#dropdown-menu-2 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2 .navbar,
+#dropdown-menu-2 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2 .dropdown-menu a:hover,
+#dropdown-menu-2 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2 .btn {
+  font-family: 'Roboto', sans-serif;
+}
+#slider2-3 H1 {
+  font-family: 'Indie Flower', cursive;
+}
+#slider2-3 P {
+  font-family: 'Indie Flower', cursive;
+}
+#slider2-4 H1 {
+  font-family: 'Indie Flower', cursive;
+}
+#slider2-4 P {
+  font-family: 'Indie Flower', cursive;
+  text-align: left;
+}
